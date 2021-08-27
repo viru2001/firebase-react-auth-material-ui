@@ -114,7 +114,7 @@ export default function Signup() {
                     </StyledBtn>
                     <Grid container justifyContent="flex-end">
                         <Grid item>
-                            <Link to="/task-tracker/signin" variant="body2">
+                            <Link to="/firebase-react-auth-material-ui/signin" variant="body2">
                                 Already have an account? Sign in
                             </Link>
                         </Grid>

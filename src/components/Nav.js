@@ -29,7 +29,7 @@ export default function Nav() {
         setError("")
         try {
             await logout()
-            history.pushState("/task-tracker/signin")
+            history.pushState("/firebase-react-auth-material-ui/signin")
 
         } catch {
             setError("Failed to log out")

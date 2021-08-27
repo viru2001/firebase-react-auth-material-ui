@@ -16,11 +16,11 @@ function App() {
         <Router>
           <AuthProvider>
             <Switch>
-              <PrivateRoute exact path="/task-tracker/" component={Dashboard} />
-              <PrivateRoute exact path="/task-tracker/update-profile" component={UpdateProfile} />
-              <Route path="/task-tracker/signup" component={Signup} />
-              <Route path="/task-tracker/signin" component={Signin} />
-              <Route path="/task-tracker/forgot-password" component={ForgotPassword} />
+              <PrivateRoute exact path="/firebase-react-auth-material-ui/" component={Dashboard} />
+              <PrivateRoute exact path="/firebase-react-auth-material-ui/update-profile" component={UpdateProfile} />
+              <Route path="/firebase-react-auth-material-ui/signup" component={Signup} />
+              <Route path="/firebase-react-auth-material-ui/signin" component={Signin} />
+              <Route path="/firebase-react-auth-material-ui/forgot-password" component={ForgotPassword} />
             </Switch>
           </AuthProvider>
         </Router>
