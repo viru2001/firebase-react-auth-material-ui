@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/firebase-react-auth-material-ui/static/js/main.2790e484.chunk.js",
+    "main.js.map": "/firebase-react-auth-material-ui/static/js/main.2790e484.chunk.js.map",
+    "runtime-main.js": "/firebase-react-auth-material-ui/static/js/runtime-main.c1f4c04c.js",
+    "runtime-main.js.map": "/firebase-react-auth-material-ui/static/js/runtime-main.c1f4c04c.js.map",
+    "static/js/2.45cd918f.chunk.js": "/firebase-react-auth-material-ui/static/js/2.45cd918f.chunk.js",
+    "static/js/2.45cd918f.chunk.js.map": "/firebase-react-auth-material-ui/static/js/2.45cd918f.chunk.js.map",
+    "index.html": "/firebase-react-auth-material-ui/index.html",
+    "static/js/2.45cd918f.chunk.js.LICENSE.txt": "/firebase-react-auth-material-ui/static/js/2.45cd918f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f4c04c.js",
+    "static/js/2.45cd918f.chunk.js",
+    "static/js/main.2790e484.chunk.js"
+  ]
+}
